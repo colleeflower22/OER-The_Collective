@@ -1,4 +1,5 @@
 # Course Syllabus
+# COURSE: THE COLLECTIVE 
 
 This class is a brief introduction to Open Education Resources (OER) for faculty. It is divided into five modules with five goals:
 
@@ -9,15 +10,16 @@ This class is a brief introduction to Open Education Resources (OER) for faculty
     **Goal:** Understand the advantages of OER in higher education.
 
 3. Finding and Evaluating Open Education Resources  
-       **Goal:** Analyze and evaluate OER  material with the goal of synthesizing material into a class.
+    **Goal:** Analyze and evaluate OER  material with the goal of synthesizing material into a class.
 
 4. Using Open Education Resources in Your Class  
-    Case Study 1: Keywords  
-     Case Study 2: A Quick Guide to Finding Books and Articles  
+    Case Study 1: Keywords and beyond Keywords
+    
+    Case Study 2: A Quick Guide to Finding Books and Articles  
     **Goal:** Synthesize OER material into a class.
 
 5. Creating and Hosting Your Own Open Education Resources
-Goal: Creating OER content and evaluating potential OER platforms.
+    **Goal:** Creating OER content and evaluating potential OER platforms.
 
 Conclusion
 
